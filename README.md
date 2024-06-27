@@ -10,7 +10,7 @@ Explorer Flutuar
 
 ## Sobre
 
-Acesse: [https://beefreguglia.github.io/explorer-moveis/](https://beefreguglia.github.io/explorer-flutuar/)
+Acesse: [https://beefreguglia.github.io/explorer-flutuar/](https://beefreguglia.github.io/explorer-flutuar/)
 
 O **Explorer Flutuar** é uma página construída durante um desafio do curso Explorer da Rocketseat. Nela utilizamos tags importantes para a criação de HTML e conhecimentos básicos de CSS
 
